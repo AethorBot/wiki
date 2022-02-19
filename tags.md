@@ -2,7 +2,7 @@
 title: Tags
 description: Guide to aethor tags
 published: true
-date: 2022-02-19T08:25:53.325Z
+date: 2022-02-19T17:47:13.100Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-19T08:25:53.325Z
@@ -11,7 +11,7 @@ dateCreated: 2022-02-19T08:25:53.325Z
 # Tags
 Aethor tags guide
 
-> Aethor tags are a vip only feature
+> Aethor tags are a [vip](./vip) only feature
 {.is-info}
 
 ## Creating tags
