@@ -10,7 +10,11 @@ dateCreated: 2022-02-19T17:46:31.268Z
 
 # Vip / Donating
 
-Aethor vip gives access to exclusive commands and features
+Aethor vip gives access to exclusive commands and features such as
+
+- [Tags](./tags)
+- Temproles
+- ButtonRoles/Dropdown roles
 
 ## Getting vip
 
