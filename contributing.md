@@ -2,8 +2,8 @@
 title: Contributing
 description: Contributing to aethor docs
 published: true
-date: 2022-02-18T17:01:25.232Z
-tags:
+date: 2022-03-08T13:52:35.955Z
+tags: 
 editor: markdown
 dateCreated: 2022-02-18T17:01:23.037Z
 ---

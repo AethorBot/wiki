@@ -2,8 +2,8 @@
 title: Suggestions guide
 description: short guide on how to get started with suggestions
 published: true
-date: 2022-02-18T13:49:09.634Z
-tags:
+date: 2022-03-08T13:52:45.644Z
+tags: 
 editor: markdown
 dateCreated: 2022-02-18T13:49:07.365Z
 ---
