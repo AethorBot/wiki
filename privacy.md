@@ -12,19 +12,17 @@ dateCreated: 2022-02-20T21:37:19.085Z
 
 ## What data do we collect
 
--   Your discord id
-    
--   Your discord server id
-    
+- Your discord id
 
-## Why we store the information and how we use it.
+- Your discord server id
 
--   To keep track of infractions
-    
--   To keep track of suggestions
-    
--   To keep track of settings
-    
+## Why we store the information and how we use it
+
+- To keep track of infractions
+
+- To keep track of suggestions
+
+- To keep track of settings
 
 ## Who gets this data
 

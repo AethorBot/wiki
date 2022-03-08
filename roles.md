@@ -11,7 +11,7 @@ dateCreated: 2022-03-08T14:47:34.624Z
 
 # Aethor Button/Dropdown roles
 
-> Aethor tags are a [vip](./vip) only feature
+> Aethor roles are a [vip](./vip) only feature
 {.is-info}
 
 ![img](/assets/roles-button.png)
