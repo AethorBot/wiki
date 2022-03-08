@@ -14,7 +14,7 @@ Aethor vip gives access to exclusive commands and features such as
 
 - [Tags](./tags)
 - Temproles
-- ButtonRoles/Dropdown roles
+- [ButtonRoles/Dropdown roles](./roles)
 
 ## Getting vip
 
