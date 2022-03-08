@@ -3,7 +3,7 @@ title: Link
 description: links to important things related to aethor
 published: true
 date: 2022-02-19T17:53:16.272Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2022-02-19T17:53:16.272Z
 ---

@@ -1,37 +1,38 @@
 ---
 title: Tags
-description: Guide to aethor tags
+description: Guide to Aethor tags
 published: true
 date: 2022-02-19T17:47:13.100Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2022-02-19T08:25:53.325Z
 ---
 
 # Tags
+
 Aethor tags guide
 
 > Aethor tags are a [vip](./vip) only feature
-{.is-info}
+> {.is-info}
 
 ## Creating tags
 
 you can use `/tag add` to create a tag
 
-![add](/tag-add.png)
+![add](/assets/tag-add.png)
 
 ## Viewing tags
 
 use `/tag view` to view a tag
 
-![view](/tag-view.png)
+![view](/assets/tag-view.png)
 
 ## Listing tags
 
 use `/tag all` to list all tags
 
-![all](/tag-all.png)
+![all](/assets/tag-all.png)
 
 ## Other tag commands
 
-![tag](/tag.png)
+![tag](/assets/tag.png)

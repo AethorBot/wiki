@@ -1,9 +1,9 @@
 ---
 title: Vip / Donating
-description: 
+description:
 published: true
 date: 2022-02-19T17:46:31.268Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2022-02-19T17:46:31.268Z
 ---
