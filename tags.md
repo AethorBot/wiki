@@ -18,7 +18,7 @@ Aethor tags guide
 
 you can use `/tag add` to create a tag
 
-![add](/tag-add.png)
+![add](/assets/tag-add.png)
 
 ## Viewing tags
 
@@ -30,8 +30,8 @@ use `/tag view` to view a tag
 
 use `/tag all` to list all tags
 
-![all](/tag-all.png)
+![all](/assets/tag-all.png)
 
 ## Other tag commands
 
-![tag](/tag.png)
+![tag](/assets/tag.png)
